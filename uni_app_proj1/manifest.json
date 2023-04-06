@@ -10,6 +10,7 @@
         /* 5+App特有相关 */
         "usingComponents" : true,
         "nvueCompiler" : "uni-app",
+        "immersed":false,
         "nvueStyleCompiler" : "uni-app",
         "splashscreen" : {
             "alwaysShowBeforeRender" : true,
